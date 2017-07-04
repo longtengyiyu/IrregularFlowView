@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="IrregularFlow">
+        <attr name="txtSize" format="dimension"/>
+        <attr name="txtColor" format="color"/>
+        <attr name="bgLayoutDrawable" format="integer"/>
+        <attr name="txtPaddingLeft" format="dimension" />
+        <attr name="txtPaddingRight" format="dimension" />
+        <attr name="txtPaddingTop" format="dimension" />
+        <attr name="txtPaddingBottom" format="dimension" />
+        <attr name="marginLeft" format="dimension" />
+        <attr name="marginRight" format="dimension" />
+        <attr name="marginTop" format="dimension" />
+        <attr name="marginBottom" format="dimension" />
+    </declare-styleable>
+</resources>
